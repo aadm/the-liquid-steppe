@@ -5,7 +5,6 @@ locale: en_US
 description: "photography and personal stories by Alessandro Amato del Monte"
 logo: #site-logo.png
 search: true
-url:
 baseurl: /the-liquid-steppe
 
 # Jekyll configuration
