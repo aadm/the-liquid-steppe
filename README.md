@@ -4,6 +4,6 @@ This repo stores the content of my old (Jekyll) blog. Only the source code thoug
 
 Well that's another reason to be happy with Pelican.
 
-I recommend to move on and visit my main website: <aadm.github.io>
+I recommend to move on and visit my main website: <http://aadm.github.io>
 
-- aadm, 22 January 2016
+_aadm, 22 January 2016_
